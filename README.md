@@ -63,9 +63,9 @@ Sumit Patil Full Stack Web Developer Portfolio
 ### 🌐 **Connect with Me**
 
 <p align="left">
-  <a href="https://github.com/SumitPatil"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sumitpatil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sumit.patil@example.com"><img src="https://img.shields.io/badge/Email-%234A154B.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/patilsumit"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iamsumitpatil"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:patilsumit2020@gmail.com"><img src="https://img.shields.io/badge/Email-%234A154B.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
