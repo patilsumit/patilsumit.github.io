@@ -34,16 +34,13 @@ Sumit Patil Full Stack Web Developer Portfolio
 <!-- Skills Section -->
 ### 🛠️ **Tech Stack**
 
-| **Backend**  | **Frontend**    | **Database**           | **Cloud**           | **Tools**             |
-|--------------|----------------|------------------------|---------------------|-----------------------|
-| Node.js      | HTML/CSS       | MongoDB                | AWS (S3, Lambda)    | Git, GitHub           |
-| Express.js   | JavaScript     | MySQL/PostgreSQL       | Heroku              | Docker                |
-| TypeScript   | React (Basics) | TypeORM/Mongoose       | NX.Dev              | Visual Studio Code    |
+| **Backend**  | **Frontend**    | **Database**           | **Cloud**           | **Tools**             | **Orm**          |
+|--------------|----------------|------------------------|---------------------|-----------------------|-------------------|
+| Node.js      | HTML/CSS       | MongoDB                | AWS (S3, Lambda)    | Git, GitHub           | TypeORM
+| Express.js   | JavaScript     | MySQL/                 | Heroku              | Docker                | Mongoose
+| TypeScript   | React (Basics) | PostgreSQL             | NX.Dev              | Visual Studio Code    | Knex.js
 | Nest.js
 | Express.js
-| Knex.js
-| Typeorm
-| Mongoose
 | Javascript
 | Microservices
 ---
