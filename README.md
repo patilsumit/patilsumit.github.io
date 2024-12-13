@@ -11,7 +11,6 @@ Sumit Patil Full Stack Web Developer Portfolio
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
 <p align="center">
@@ -53,20 +52,9 @@ Sumit Patil Full Stack Web Developer Portfolio
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitPatil&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitPatil&theme=github-dark-blue" width="48%" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=patilsumit&show_icons=true&theme=github_dark" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilsumit&theme=github-dark-blue" width="48%" alt="Streak Stats">
 </p>
-
----
-
-<!-- Projects Section -->
-### 🚀 **Key Projects**
-
-| Project Name                | Description                                                   | Tech Stack                           |
-|-----------------------------|---------------------------------------------------------------|--------------------------------------|
-| **Truck Link**              | A system to manage trucking logistics efficiently.            | Node.js, Express.js, MongoDB         |
-| **Campaign Management**     | Tool to manage marketing campaigns and analytics.             | NestJS, TypeScript, PostgreSQL       |
-| **Employee Management**     | API for employee CRUD operations with JWT-based auth.         | Node.js, MySQL, Mongoose             |
 
 ---
 
